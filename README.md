@@ -1,6 +1,6 @@
 ## 🌱
 
-my name is Olivia Maia; I’m a Brazilian writer, artist and sometimes the worse artisan in the history of artisanship.
+my name is olivia maia; i’m a brazilian writer, artist and sometimes the worse artisan in the history of artisanship.
 
 agender. cat person. != girl != boy
 any pronoun works.
