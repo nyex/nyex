@@ -3,11 +3,12 @@
 my name is olivia maia; i’m a brazilian writer, artist and sometimes the worse artisan in the history of artisanship.
 
 agender. cat person. != girl != boy
+
 any pronoun works.
 
 i have _some_ git repos mirrored to github, but the actual repos are at [codeberg.org/olivia](https://codeberg.org/olivia).
 
-i'm bad at code but i can help with EN-PT_br translations.
+i'm bad at code but i can help with EN-PT translations.
 
 ### find me on the internet
 - website [oliviamaia.net](https://oliviamaia.net) / [en](https://oliviamaia.net/en)
