@@ -9,7 +9,6 @@ i have _some_ git repos mirrored to github, but the actual repos are at [codeber
 i'm bad at code but i can help with EN-PT translations.
 
 ### find me on the internet
-- website [oliviamaia.net](https://olimaia.net) / [en](https://olimaia.net/en)
-- git: [codeberg.org/olivia](https://codeberg.org/oli)
-- mastodon_en: [eldritch.cafe/@olivia](https://eldritch.cafe/@olivia)
-- mastodon_pt-br: [masto.donte.com.br/@olivia](https://cuscuz.in/@oli)
+- website [olimaia.net](https://olimaia.net) / [en](https://olimaia.net/en)
+- git: [codeberg.org/oli](https://codeberg.org/oli)
+- mastodon: [https://cuscuz.in/@oli](https://cuscuz.in/@oli)
